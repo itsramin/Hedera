@@ -110,6 +110,11 @@ h1 {
   font-size: 45px;
 }
 
+.img-class {
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .section-title h2 {
     font-size: 40px;
@@ -794,7 +799,7 @@ p {
   z-index: 1;
   padding: 160px 0 50px;
   background-image: url("../img/banner/banner-bg.svg");
-  background-position: top center;
+  background-position: 50% -140px;
   background-repeat: no-repeat;
 }
 

@@ -20,19 +20,6 @@ Get Hedera from the [Chrome Web Store](https://chromewebstore.google.com/detail/
 - No external data transmission
 - No third-party integrations unless explicitly requested
 
-## Technology Stack
-
-- HTML5
-- CSS3 (Bootstrap)
-- JavaScript
-- Browser Extension APIs
-
-## Assets
-
-- Custom CSS including Bootstrap, LineIcons, and animations
-- Responsive design
-- Mobile-friendly interface
-
 ## Contact & Support
 
 - Email: raminshdev@gmail.com
